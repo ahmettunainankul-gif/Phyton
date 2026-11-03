@@ -1,1 +1,1 @@
-print ("tuna")
+print ("tuna Inankul")
